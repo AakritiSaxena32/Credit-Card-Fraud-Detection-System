@@ -26,5 +26,3 @@ This project builds a system that can tell if a credit card transaction is real 
 2. Run all cells in the notebook
 3. The notebook will download the data and train the model automatically
 
-## What's Next
-The model is good at not flagging real transactions as fraud, but could be better at catching actual fraud. Future work could try different methods to handle the class imbalance.

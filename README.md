@@ -12,8 +12,8 @@ This project builds a system that can tell if a credit card transaction is real 
 4. The model was tested to see how well it finds fraud
 
 ## Results
-- **Accuracy**: 99.96% (Overall correctness)
-- **Precision**: 97.47% (When it says "fraud", it's usually right)
+- **Accuracy**: 99.95% (Overall correctness)
+- **Precision**: 97.15% (When it says "fraud", it's usually right)
 - **Recall**: 78.57% (It catches 78.57% of actual fraud cases)
 - **F1 Score**: 86.96% (Balance between precision and recall)
 
